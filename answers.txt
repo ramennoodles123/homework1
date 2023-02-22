@@ -5,3 +5,9 @@ in the main branch and your current feature branch.
 A rebase takes all the main branches contents, and you start all your 
 commits from the current main branch. Your previous commits are now 
 new commits starting from the current main branch.
+
+What is a remote repository?
+
+A remote repository is a collection of changes that can be accessed by 
+everyone working on that project. It is generally hosted on a server
+separate from your computer.
